@@ -10,6 +10,7 @@ namespace SEDC.CodeAcademy.PicaProject.Models
         public int OrderID { get; set; }
         public int PizzaID { get; set; }
         public string Address { get; set; }
+        public int Time { get; set; }
 
     }
 }
